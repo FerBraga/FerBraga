@@ -11,6 +11,7 @@
   <img align="center" alt="fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="fer-chai" height="30" width="40" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
+     <img align="center" alt="fer-react" height="30" width="40" src=" https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
   ##
