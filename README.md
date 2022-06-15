@@ -1,5 +1,5 @@
- Hey, me chamo Fernando Braga, mas pode me chamar de Fer. 
- No momento sou  Front End Developer, estudando programação Full Stack na Trybe.
+ Hey, me chamo Fernando Braga, mas pode me chamar de Fer.<br>
+ No momento sou  Front End Developer, estudando programação Full Stack na Trybe.<br>
  Buscando projetos para contribuir, que facilitem a vida das pessoas.
 
 
@@ -14,7 +14,7 @@
   <img align="center" alt="fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
      <img align="center" alt="fer-chai" height="30" width="40" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
-      <img align="center" alt="fer-Node" height="30" width="40" src=" https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+      <img align="center" alt="fer-Node" height="30" width="40" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   ##
   
