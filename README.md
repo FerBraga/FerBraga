@@ -21,25 +21,9 @@
       <img align="center" alt="fer-Mocha" height="30" width="40" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
       <img align="center" alt="fer-Node" height="30" width="40" src=" https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     
-    https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
       <img align="center" alt="fer-npm" height="30" width="40" src="  https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img align="center" alt="fer-react" height="30" width="40" src=" https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="fer-npm" height="30" width="40" src=" https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 </div>
   
   ##
