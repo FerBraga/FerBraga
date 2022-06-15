@@ -18,6 +18,9 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown">
+   
+   
    
   
 </div>
