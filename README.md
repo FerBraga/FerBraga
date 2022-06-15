@@ -1,4 +1,8 @@
-## Hey, me chamo Fernando Braga, mas pode me chamar de Fer. :)
+## Hey, me chamo Fernando Braga, mas pode me chamar de Fer. 
+No momento sou  Front End Developer, estudando programação Full Stack na Trybe.
+Buscando projetos para contribuir, que facilitem a vida das pessoas.
+
+Adoro conversar sobre,  A  VIDA. :). :)
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/ferbraga">
