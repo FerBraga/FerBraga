@@ -1,6 +1,7 @@
- Hey, me chamo Fernando Braga, mas pode me chamar de Fer.<br>
+ <p display=center>Hey, me chamo Fernando Braga, mas pode me chamar de Fer.<br>
  No momento sou  Front End Developer, estudando programação Full Stack na Trybe.<br>
  Buscando projetos para contribuir, que facilitem a vida das pessoas.<br>
+ </p>
 
 
 <div style="display: inline_block" align="center">
