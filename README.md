@@ -1,4 +1,4 @@
- <p align="center">Hey, me chamo Fernando Braga, mas pode me chamar de Fer.<br>
+ <p align="left">Hey, me chamo Fernando Braga, mas pode me chamar de Fer.<br>
  No momento sou  Front End Developer, estudando programação Full Stack na Trybe.<br>
  Buscando projetos para contribuir, que facilitem a vida das pessoas.<br>
  </p>
