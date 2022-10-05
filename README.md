@@ -4,8 +4,8 @@
  a vida de muitas pessoas.<br>
  ---
  Hi, my name is Feranndo Braga, but you can call me Fer. 
- I'm a Full Stack Developer graduated at Trybe. 
- I'm looking for projects that are innovative and improve peeople's life.
+ I'm a Full Stack Developer graduated at Trybe. <br>
+ I'm looking for projects that are innovative and improve peeople's life.<br>
  </p>
 
 
