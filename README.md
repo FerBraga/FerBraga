@@ -1,6 +1,7 @@
  <p align="left">Hey, me chamo Fernando Braga, mas pode me chamar de Fer.<br>
- No momento sou  Front End Developer, estudando programação Full Stack na Trybe.<br>
- Buscando projetos para contribuir, que facilitem a vida das pessoas.<br>
+ Sou Full Stack Developer formado pela Trybe.<br>
+ Buscando projetos que inovem e tragam soluções que facilitem
+ a vida de muitas pessoas.<br>
  </p>
 
 
