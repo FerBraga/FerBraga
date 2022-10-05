@@ -2,6 +2,10 @@
  Sou Full Stack Developer formado pela Trybe.<br>
  Buscando projetos que inovem e tragam soluções que facilitem
  a vida de muitas pessoas.<br>
+ ---
+ Hi, my name is Feranndo Braga, but you can call me Fer. 
+ I'm a Full Stack Developer graduated at Trybe. 
+ I'm looking for projects that are innovative and improve peeople's life.
  </p>
 
 
