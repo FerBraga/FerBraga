@@ -5,6 +5,6 @@
  ---<br>
  Hi, my name is Fernando Braga, but you can call me Fer. <br>
  I'm a Back-End developer and currently working with TypeScript and PHP. <br>
- I'm looking for projects that are innovative and improve people's life.<br>
+ I'm looking for projects that are innovative and improve people's lives.<br>
  </p>
  
